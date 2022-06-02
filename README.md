@@ -5,7 +5,7 @@
 
 ### Reach Out to Me
 
-<img width="22"  src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left"/> [twitter]
+<img width="22"  src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left"/> [[twitter](https://twitter.com/cankeriim)]
 
 <br/>
 <img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>[linkedin]
@@ -13,7 +13,7 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/cankeriim
+[[twitter](https://twitter.com/cankeriim)]: https://twitter.com/cankeriim
 [linkedin]: https://www.linkedin.com/in/cankerim02/
 
 ### :mag: Languages and Tools

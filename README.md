@@ -10,7 +10,6 @@
 <br/>
 <img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>www.linkedin.com/in/cankerim02/
 
-<br />
 
 
 [twitter.com/cankeriim]: https://twitter.com/cankeriim

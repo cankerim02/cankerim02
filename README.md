@@ -5,16 +5,16 @@
 
 ### Reach Out to Me
 
-<img width="22"  src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left"/> [[twitter](https://twitter.com/cankeriim)]
+<img width="22"  src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left"/> [twitter.com/cankeriim]
 
 <br/>
-<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>[linkedin]
+<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>[linkedin.com/in/cankerim02/]
 
 <br />
 <br />
 
-[[twitter](https://twitter.com/cankeriim)]: https://twitter.com/cankeriim
-[linkedin]: https://www.linkedin.com/in/cankerim02/
+[twitter.com/cankeriim]: https://twitter.com/cankeriim
+[linkedin.com/in/cankerim02]: https://www.linkedin.com/in/cankerim02/
 
 ### :mag: Languages and Tools
 

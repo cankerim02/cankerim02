@@ -2,8 +2,8 @@
 
  #### Who am I
  `Just a guy who likes to code and learn new things`
- 🌱 I’m currently learning JavaScript
- 📫 How to reach me: cankerim02@gmail.com
+ *🌱 I’m currently learning JavaScript
+ *📫 How to reach me: cankerim02@gmail.com
 
 ### Reach Out to Me
 

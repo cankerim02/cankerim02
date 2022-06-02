@@ -8,13 +8,13 @@
 <img width="22"  src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left"/> [twitter.com/cankeriim]
 
 <br/>
-<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>[linkedin.com/in/cankerim02/]
+<img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>[www.linkedin.com/in/cankerim02/]
 
 <br />
 <br />
 
 [twitter.com/cankeriim]: https://twitter.com/cankeriim
-[linkedin.com/in/cankerim02]: https://www.linkedin.com/in/cankerim02/
+[www.linkedin.com/in/cankerim02]: https://www.linkedin.com/in/cankerim02/
 
 ### :mag: Languages and Tools
 

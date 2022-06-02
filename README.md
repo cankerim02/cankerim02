@@ -8,9 +8,9 @@
 
 ### Languages and Tools
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50" height="50" class="d-block rounded-2 mr-3 flex-shrink-0" alt="javascript logo">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50" height="50" class="d-block rounded-2 mr-3 flex-shrink-0" alt="javascript logo">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="50" height="50" class="d-block rounded-2 mr-3 flex-shrink-0" alt="bootstrap logo">
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="50" height="50" class="d-block rounded-2 mr-3 flex-shrink-0" alt="bootstrap logo">
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="50" height="50" class="d-block rounded-2 mr-3 flex-shrink-0" alt="html5 logo">
 
@@ -23,7 +23,6 @@
 <br />
 
 <details> 
-
 <summary>:bulb: Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=cankerim02&show_icons=true&theme=dracula">   
 </details>
@@ -36,6 +35,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cankerim02&layout=compact">   
 </details>
 
+<br/>
 <br/>
 
 [twitter]: https://twitter.com/cankeriim

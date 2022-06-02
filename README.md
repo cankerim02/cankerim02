@@ -1,4 +1,4 @@
-# Hi I'm Kerim Can 👋
+# Hi there, I'm Kerim Can 👋
 - 🌱 I’m currently learning JavaScript
 - 💬 Ask me about HTML , CSS , Boostrap, JavaScript
 - 📫 How to reach me: cankerim02@gmail.com
@@ -31,18 +31,16 @@
 <br />
 <br />
 
-<details> 
-<summary>:bulb: Github Stats</summary>
+
+<summary> Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=cankerim02&show_icons=true&theme=dracula">   
-</details>
 
 <br />
 <br />
 
-<details>
-<summary>:bulb: Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cankerim02&layout=compact">   
-</details>
+
+<summary>Most Used Languages</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cankerim02&layout=compact">  
 
 <br/>
 <br/>

@@ -6,7 +6,7 @@
 
 
 
-### Languages and Tools
+### :mag: Languages and Tools
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" width="50" height="50" class="d-block rounded-2 mr-3 flex-shrink-0" alt="javascript logo">
 

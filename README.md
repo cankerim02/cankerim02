@@ -7,7 +7,7 @@
 
 ### Reach Out to Me
 
-<img width="22"  src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left"/> [https://twitter.com/cankeriim_]
+<img width="22"  src="https://unpkg.com/simple-icons@v7/icons/twitter.svg" align="left"/> https://twitter.com/cankeriim_
 
 
 <img width="22" src="https://unpkg.com/simple-icons@v7/icons/linkedin.svg" align="left"/>www.linkedin.com/in/cankerim02/

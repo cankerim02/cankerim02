@@ -40,6 +40,7 @@
 <summary> Github Stats</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=cankerim02&show_icons=true&theme=dracula">   
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cankerim02&langs_count=8)](https://github.com/cankerim02/github-readme-stats)
 
 
 <summary>Most Used Languages</summary>

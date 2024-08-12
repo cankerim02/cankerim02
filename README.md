@@ -32,7 +32,6 @@
 
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" width="50" height="50" class="d-block rounded-2 mr-3 flex-shrink-0" alt="scss logo">
 
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" class="d-block rounded-2 mr-3 flex-shrink-0" alt=".NET Core logo">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" class="d-block rounded-2 mr-3 flex-shrink-0" alt="C# logo">
 
 
